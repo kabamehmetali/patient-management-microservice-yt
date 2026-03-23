@@ -1,4 +1,4 @@
-package dev.mehmetali.patientservice.dto.mapper;
+package dev.mehmetali.patientservice.mapper;
 
 import dev.mehmetali.patientservice.dto.PatientRequestDto;
 import dev.mehmetali.patientservice.dto.PatientResponseDto;
